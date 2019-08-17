@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/cryptonotefoundation/cryptonotewallet.git
+git clone https://github.com/0xCristianOff/GCASH-gui-wallet.git
 ```
 
 **2. Modify `CryptoNoteWallet.cmake`**
